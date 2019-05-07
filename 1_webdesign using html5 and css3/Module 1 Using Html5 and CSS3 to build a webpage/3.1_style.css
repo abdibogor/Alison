@@ -1,0 +1,114 @@
+body{
+	font-family:arial,Helvetica, sans-serif;
+	background: blue;
+}
+header{
+	width:80%;
+	background:black;
+	color:silver;
+	margin-right:auto;
+	margin-left:auto;
+	padding:10px;
+	overflow:hidden;
+}
+
+p{
+	margin:10px;
+}
+
+hgroup{
+	width:70%;
+	float:left;
+}
+
+hgroup h1{
+	padding-top:0;
+	line-height:1em;
+}
+
+hgroup h2{
+	text-transform:uppercase;
+	font-size:1em;
+}
+
+h1{
+	font-size:2em;
+}
+
+h2{
+	font:1.6px;
+}
+
+h3,h4,h5{
+	font-size:1.3px;
+}
+
+img{
+	float:right;
+	margin:0px 0px 10px 10px;
+	box-shadow:3px 3px 5px 1px silver;
+}
+
+nav{
+	width:30%;
+	float:right;
+}
+
+nav ul{
+	float:left;
+	margin-right:7px;
+}
+
+
+nav li{
+	list-style-type:none;
+	display:inline;
+}
+
+nav li a{
+		color:aquamarine;
+		padding:5px 10px;
+		text-decoration:none;
+		border-right:1px solid red;
+		font-weight:bold;
+		border-radius: 5px;
+}
+
+nav li a.hover{
+			cursor: pointer;
+			background:firebrick;
+}	
+
+section{
+		  width:80%;
+		  background:white;
+	      margin-right:auto;
+	       margin-left:auto;
+	       border-color:black;
+	       border-style:solid;
+	       border-width:5px; 
+	       padding:5px;
+}
+article{
+			width:100%;
+			margin-right:auto;
+			margin-left:auto;
+}
+
+aside{
+	width:80%;
+	margin-right:auto;
+	margin-left:auto;
+	font-size:20px;
+	background:green;
+	border-radius:20px;
+	float:right;
+}
+
+footer{
+				width:80%;
+				background:purple;
+				color:silver;
+				margin-right:auto;
+				margin-left:auto;
+}

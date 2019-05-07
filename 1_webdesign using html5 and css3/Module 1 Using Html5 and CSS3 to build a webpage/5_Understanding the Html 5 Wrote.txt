@@ -1,0 +1,26 @@
+Validor.nvu
+
+syntax styles
+<span></span>
+<div class or id=""></div>
+<table></table>
+<tr>
+<th></th>
+<tr>
+<td></td>
+</tr>
+</tr>
+
+</br>
+
+Learn more about utf-8
+wwww.joealnosoftware.com(articles)
+Unicode.html
+
+UTF-8 (Universal Transformation format-8)
+
+Supporting html older browsers
+Hmtl5 
+Progressive enhancement
+
+Http://caniuse.com
