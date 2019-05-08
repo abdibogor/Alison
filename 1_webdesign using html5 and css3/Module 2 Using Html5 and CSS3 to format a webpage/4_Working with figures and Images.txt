@@ -1,0 +1,6 @@
+<img src="" alt="" border="" width="" height=""/>
+
+<figure>
+<img src="" alt border="" height="" width=""/>
+<ficaption></ficaption>
+</figure>

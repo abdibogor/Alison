@@ -1,0 +1,10 @@
+ul = liste à puce
+ol = liste ordonné
+li = liste d'élements
+
+dl = debut et fin de liste de description
+dl = nome du terme
+dd = description du terme défini
+
+<ul type="square, "disc", "circle"></ul>
+<ol type="1"></ol>

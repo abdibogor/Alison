@@ -1,0 +1,15 @@
+www.W3.org
+
+combination de selecteurs
+
+h1, h2, h3, h4, h5 and h6
+
+-body
+-container
+-header
+-nav
+-article
+-section
+-aside
+-footer
+
