@@ -1,0 +1,5 @@
+html = structure
+css = presentation
+javascript = Behavior
+Php or Similar = Back end
+CMS = Content Management system

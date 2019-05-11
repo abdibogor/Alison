@@ -1,0 +1,10 @@
+Pseudo-classes
+::first-classes
+::last-child
+
+Anchors Pseudo-classes
+:link
+:visited
+:active
+:hover
+:focus

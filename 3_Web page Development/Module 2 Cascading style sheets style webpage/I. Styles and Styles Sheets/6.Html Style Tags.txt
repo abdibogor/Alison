@@ -1,0 +1,3 @@
+css and html  work hand in hand
+html sorts out the page structure
+css defines how html elements are displayed

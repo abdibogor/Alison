@@ -1,0 +1,18 @@
+<table border="" width="" height="">
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+</tr>
+</tbody>
+<tfooter>
+<tr>
+<td></td>
+</tr>
+</tfooter>
+</table>

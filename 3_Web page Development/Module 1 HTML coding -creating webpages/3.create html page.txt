@@ -1,0 +1,4 @@
+notepad++
+bloc notes
+sublime-text
+ctrl+s = index.html

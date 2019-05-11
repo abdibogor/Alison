@@ -1,0 +1,2 @@
+url absolute = <a href="https://google.com"></a>
+url relative = <a href=" index.html"></a>

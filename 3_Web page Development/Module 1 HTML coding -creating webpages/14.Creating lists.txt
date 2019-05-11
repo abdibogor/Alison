@@ -1,0 +1,6 @@
+<ol> list ordered
+<ul> list unordered
+<li> list
+<dl> debut et enfin description
+<dt> Nom du terme
+<dd> description ce terme defini

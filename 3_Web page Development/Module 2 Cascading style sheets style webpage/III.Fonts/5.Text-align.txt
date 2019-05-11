@@ -1,0 +1,4 @@
+The text-align property specifies the horizontal alignment of text in an element.
+
+text-align:
+		top, bottom, right, center.
