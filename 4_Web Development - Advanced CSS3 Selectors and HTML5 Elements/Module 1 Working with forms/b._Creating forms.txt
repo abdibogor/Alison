@@ -1,0 +1,45 @@
+<form method="post" action="https://www.google.com">
+</form>
+
+Http Post = encode from date in body of http Message.
+Http Get = encode from and other data in Url.
+
+froms action
+
+<form method="post" action="https://www.google.com">
+
+The action attribute is the destination of the from submission Typically the from submission will be to a server-side technology like ASP.net , PHP, CGI.
+
+<form >
+<label>Username:</label>
+<input type="text" maxlength="15" size="100">
+</form>
+
+<fieldset>
+<legend>Pizza size</legend>
+<p><label><Input type="radio" name="size" value="small">small(10Inch)</label></p>
+<p><label><Input type="radio" name="size" value="medium">medium(10Inch)</label></p>
+<p><label><Input type="radio" name="size" value="large">large(14Inch)</label></p>
+</fieldset>
+
+<fieldset>
+<legend>Pizza Tappings</legend>
+<p><label><Input type="checkbox" name="size" value="Web">bogoreh</label></p>
+<p><label><Input type="checkbox" name="size" value="developper">bogoreh</label></p>
+<p><label><Input type="checkbox" name="size" value="Design">bogoreh</label></p>
+</fieldset>
+
+<p>Crust
+<select>
+<option value="Normal">Normal</option>
+<option value="Chicago">Chicago</option>
+<option value="New York">New York</option>
+</select>
+</p>
+
+<p><label>Delivery instructions : </label>
+<textarea name="comments" cols="" rows="" maxlength=""></textarea>
+</p>
+
+<p><input tyep="submit" value="continue" to step 2">continue" to step 2</p>
+<p><input tyep="submit" value="continue" to step 3">continue" to step 3</p>

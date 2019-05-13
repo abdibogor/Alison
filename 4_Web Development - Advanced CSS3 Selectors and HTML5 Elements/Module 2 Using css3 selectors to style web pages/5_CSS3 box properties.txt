@@ -1,0 +1,29 @@
+inline elements
+<a> 
+<code> 
+<em> 
+<i>  
+<U>  
+<img>  
+<label>  
+<legend>
+<nav>
+<small>
+<span>
+
+Block-styles Elements
+<article>
+<aside, header, footer> 
+<body, head> 
+<div>
+<dt, dd, dt>
+<figure, ficaption>
+<form, fieldset>
+<h1, h2, h3, et hgroup>
+<p,hr>
+<ul, ol, li>
+<table>
+<blockquote>
+<pre>
+
+https://www.fontsquirrel.com

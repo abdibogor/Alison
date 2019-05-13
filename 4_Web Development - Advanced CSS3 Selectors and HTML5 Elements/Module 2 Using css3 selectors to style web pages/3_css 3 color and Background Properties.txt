@@ -1,0 +1,6 @@
+background-color:
+background-image: url('');
+background-repeat: x(horizontal);
+		   y(verticale);
+background-position:Top, right, bottom, left;
+background-shortland:

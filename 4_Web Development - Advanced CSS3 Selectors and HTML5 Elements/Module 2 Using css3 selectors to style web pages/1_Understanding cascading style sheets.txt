@@ -1,0 +1,74 @@
+css purpose
+Applying style(presentation)
+
+Styles: sets or name(value pairs representing visual attributes to apply to one More true).
+
+Inheritance
+<div style="color:orange">
+<h1>Title</h1>
+<p>paragraph</p>
+</div>
+
+order of Precedance
+-user
+-inline
+-Media
+-Important
+-Specific
+-Order
+-Inheritance from Parent browser default
+
+fromatting your css
+h1 { font-size: 3em, font-weight: heavy;}
+
+ordering your style Properties
+-Alphabetical
+-Technical
+-By Function
+
+Defining Styles
+1. External file.
+2. In-line
+3.On-page.
+
+
+Linking Styles
+<link rel="stylesheet" href="" type="text/css" media="screen"> 
+
+
+CSS Selectors
+Tags  h1 {    css = css rules 
+id    #first { selectors = id and class selectors.
+class .important 
+
+Multiple classes applied to an element
+<div class="myclass1 myclass2  myclass3" > 
+
+Pseudoclasses
+:first-child
+:last-child
+
+Pseudo elements
+::first-letter
+::first-line
+::selection
+::selection
+::before
+::after
+
+
+other selectors
+article span { } - descendant
+a*b -Universal , b with in a regardless of b parents
+a>b b direct child of a
+a+b b is a sibling of a immediately following
+a-b -b is a "general sibling of a
+
+
+Controlling Inheritance
+Property:
+-inherit
+-none
+-normal
+-auto
+

@@ -1,0 +1,15 @@
+required = Champs obligatoires
+
+<form>
+<label for="email">Your e-mail address</label>
+<input name="email" type="text" required">
+<input type="submit" value="submit" />
+
+<url>
+<input type="url" type="url">
+<h2> URL </h2>
+
+<label for="email">website: <input type="url" type="url" Placeholder="Example.com"></label>
+<p><label><Input type="range" name="range" input required value="42"></label></p>
+pattern:
+<p><label><Input type="range" pattern="">
