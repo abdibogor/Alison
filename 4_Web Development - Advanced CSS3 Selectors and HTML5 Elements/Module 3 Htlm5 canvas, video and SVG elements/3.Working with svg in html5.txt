@@ -1,0 +1,9 @@
+SVG Canvas scalable Vector Graphics and is used to draw shapes with html Style Markup.
+
+-drawing paths.
+-boxes
+-circles
+-text
+-graphics images
+
+SVG is not pixel-based, so it can be magnified infinitely with no class of quality.

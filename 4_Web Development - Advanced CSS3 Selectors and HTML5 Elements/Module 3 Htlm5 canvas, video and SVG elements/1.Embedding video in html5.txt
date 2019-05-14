@@ -1,0 +1,10 @@
+<video controls autoplay loop>
+<source src=".mp4" type="Video/Mp4">
+<source src=".ogg" type="Video/ogg">
+</video>
+
+<video controls poster="">
+<source src=".mp4" type="Video/Mp4">
+<source src=".ogg" type="Video/ogg">
+</video>
+

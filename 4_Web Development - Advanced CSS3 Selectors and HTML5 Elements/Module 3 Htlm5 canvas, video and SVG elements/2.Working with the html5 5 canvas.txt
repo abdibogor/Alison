@@ -1,0 +1,8 @@
+The html is used to draw graphics that include everything from simple lines to to complex graphics objects
+
+four essential skills for any html5 canvas
+- Creating and resizing your canvas
+2. Drawing Elements
+3. animating Elements
+4. Interacting with elements
+
