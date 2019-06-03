@@ -1,0 +1,16 @@
+Topics For further Exploration:
+Built-in String, math and array methods
+
+Dom Api, Events, browser implementation variances.
+Building Metro-Style Winrat Apps
+Managing Large Javascript Projects
+Jquery & other Javascript Libraries.
+
+
+
+the book
+"Javascript: The Good Parts" by Douglas Crockfrod, O'Reilly
+"Javascript The definitive Guide" by David Flanagan , O'Reilly
+"Javascript The Good Parts" by Douglas Crockford, O'Reilly
+"Javascript Patterns" by Stoyan Stefanov O'Reilly
+"Learning JQuery" Jquery Reference Guide by Chaffer Swedberg Packt

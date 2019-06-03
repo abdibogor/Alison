@@ -1,0 +1,4 @@
+1.Usability
+2.Graceful Degradation
+3.Accessibility
+4.Separation
