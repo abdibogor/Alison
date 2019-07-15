@@ -1,0 +1,6 @@
+http://docs.angularjs.org/guide/bootstrap
+
+
+http://docs.angularjs.org/guide/di#using-strict-dependency-injection
+
+
