@@ -1,0 +1,10 @@
+ng-app directive such as ng-app="helloApp" with <html> tag is used to initialize the module.
+
+ng-controller directive such as ng-controller="HelloCtrl" in the <body> tag is used to name the controller. 
+The ng-controller directive can be used with div container as well.
+
+ng-model directive such as ng-model="name" is used in the input field to data-bind the input with the model named as "name"
+
+Template is written with double curly braces and the model name within.
+
+The controller code is written inside <script> within <head> section

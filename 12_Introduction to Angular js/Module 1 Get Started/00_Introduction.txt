@@ -1,0 +1,3 @@
+In this module you will be introduced to AngularJS. 
+You will learn about what it is used for and why you would use it when creating web sites and web apps.
+ You will learn about how AngularJS works and what modules are in Angular.

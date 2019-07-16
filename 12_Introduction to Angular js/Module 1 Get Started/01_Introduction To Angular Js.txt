@@ -1,0 +1,7 @@
+Github Repository
+Has all demo files along with slides from this session
+http://github.com/Microsoft learning/MVAAngular
+
+
+
+https://angularjs.org/
