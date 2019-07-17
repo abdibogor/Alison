@@ -1,0 +1,9 @@
+This module discusses controllers.
+ You will learn about what a controller is and about adding behaviour to one. 
+You will learn what the $scope object is used for. You will learn about creating controllers and prototypical inheritance
+
+
+
+Ce module traite des contrôleurs.
+ Vous apprendrez ce qu'est un contrôleur et comment ajouter un comportement à un contrôleur.
+ Vous apprendrez à quoi sert l'objet $ scope. Vous apprendrez à créer des contrôleurs et des héritages prototypiques

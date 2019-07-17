@@ -1,0 +1,26 @@
+AngularJS controllers control the data of AngularJS applications.
+
+
+AngularJS controllers are regular JavaScript Objects.
+
+
+AngularJS Controllers
+AngularJS applications are controlled by controllers.
+
+
+The ng-controller directive defines the application controller.
+
+
+A controller is a JavaScript Object, created by a standard JavaScript object constructor.
+
+
+Les contrôleurs AngularJS contrôlent les données des applications AngularJS.
+
+Les contrôleurs AngularJS sont des objets JavaScript normaux.
+
+Contrôleurs AngularJS
+Les applications AngularJS sont contrôlées par des contrôleurs.
+
+La directive ng-controller définit le contrôleur d'application.
+
+Un contrôleur est un objet JavaScript, créé par un constructeur d'objet JavaScript standard.
