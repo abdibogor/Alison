@@ -1,0 +1,5 @@
+Les expressions AngularJS peuvent être écrites à l'intérieur de doubles accolades: {{expression}}.
+
+Les expressions AngularJS peuvent également être écrites à l'intérieur d'une directive: ng-bind = "expression".
+
+AngularJS va résoudre l'expression et retourner le résultat exactement où l'expression est écrite.
