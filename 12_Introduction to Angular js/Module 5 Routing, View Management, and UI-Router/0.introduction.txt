@@ -1,0 +1,6 @@
+This module discusses routing. You will learn about the services Angular provides for you to setup routing on your applications pages. 
+You will learn about pretty URLs to help clean up your applications URL. 
+You will also learn about the UIRouter framework available to Angular developers for routing.
+
+
+	https://docs.angularjs.org/api
