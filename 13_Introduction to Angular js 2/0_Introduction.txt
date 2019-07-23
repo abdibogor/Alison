@@ -1,0 +1,35 @@
+The course Introduction to Angular 2 will introduce you to the latest version of AngularJS, which is a structural framework for developing dynamic web apps, developed and maintained by Google. 
+You will learn about the philosophies of using Angular for development, the new features in Angular 2, and about the core building blocks of an Angular application and how to combine those building blocks to create a web app.
+
+
+The course begins by introducing you to what client-side templating is, as well as what a single page application is. 
+You will learn about the core philosophies of Angular and the main differences between Angular 1 and Angular 2. 
+You will also learn about TypeScript and what it can offer your development environment.
+
+
+Next, the course teaches you about the three types of directives in Angular 2, how to create them as well as what they are used for. 
+The course reviews data flow, and you will learn about interpolation and event binding, including how to combine them for 2-way binding. 
+The course also reviews what providers are used for, and how routing works in Angular to create single page applications.
+
+
+Lastly, you will learn how to combine all the features covered in the course to create a functional web application.
+
+
+This course will be of great interest to Web developers who would like to learn more about Angular 2 and its new features, and those looking to further their knowledge of modern Web development.
+
+
+Prerequisites: The learner will need experience in Web site development and experience with JavsaScript. They will need a understanding of the MVC (Model View Controller) and MVVM (Model–View–ViewModel)
+
+
+	En french
+
+Le cours Introduction à Angular 2 vous présentera la dernière version d'AngularJS, qui est un cadre structurel pour le développement d'applications web dynamiques, développé et maintenu par Google. 
+Vous apprendrez à connaître les philosophies d'utilisation d'Angular pour le développement, les nouvelles fonctionnalités d'Angular 2, ainsi que les principaux éléments d'une application Angular et comment combiner ces éléments pour créer une application Web.
+Le cours commence par vous présenter ce qu'est le template côté client, ainsi que ce qu'est une application d'une seule page. Vous découvrirez les principales philosophies d'Angular et les principales différences entre Angular 1 et Angular 2. 
+Vous apprendrez également à propos de TypeScript et de ce qu'il peut offrir à votre environnement de développement.
+Ensuite, le cours vous enseigne sur les trois types de directives dans Angular 2, comment les créer ainsi que ce qu'ils sont utilisés. 
+Le cours passe en revue le flux de données, et vous apprendrez à propos de l'interpolation et de la liaison d'événements, y compris comment les combiner pour une liaison bidirectionnelle. 
+Le cours examine également les fournisseurs utilisés et le fonctionnement du routage dans Angular pour créer des applications à une seule page.
+Enfin, vous apprendrez à combiner toutes les fonctionnalités couvertes dans le cours pour créer une application web fonctionnelle.
+Ce cours sera d'un grand intérêt pour les développeurs Web qui aimeraient en savoir plus sur Angular 2 et ses nouvelles fonctionnalités, et ceux qui cherchent à approfondir leurs connaissances du développement Web moderne.
+Prérequis: L'apprenant aura besoin d'expérience en développement de site Web et expérience avec JavsaScript. Ils auront besoin de comprendre le MVC (Model View Controller) et le MVVM (Model-View-ViewModel)
