@@ -1,0 +1,43 @@
+visit in this website 
+
+https://www.typescriptlang.org/play/
+
+	Typescript
+
+ var name: string = "abdibogoreh";
+ var num: number = 15;
+ var myArr: Array<number> = [1,2,3];
+
+ var something: any = 15;
+ something ="hello";
+
+ function sample(first:string): string {
+	return first;
+}
+ 
+ class Person  {
+	constructor(public name:string){
+	
+	}
+}
+
+var aPerson: Person = new Peson("PersonName")
+
+ 
+	Javascript
+
+var name = "abdibogoreh";
+var num = 15;
+var myArr = [1, 2, 3];
+var something = 15;
+something = "hello";
+function sample(first) {
+    return first;
+}
+var Person = /** @class */ (function () {
+    function Person(name) {
+        this.name = name;
+    }
+    return Person;
+}());
+var aPerson = new Peson("PersonName");
