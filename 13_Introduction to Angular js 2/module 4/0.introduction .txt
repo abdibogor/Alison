@@ -1,0 +1,1 @@
+This module will demonstrate how to combine all the features covered in the course to create a functional web application.
