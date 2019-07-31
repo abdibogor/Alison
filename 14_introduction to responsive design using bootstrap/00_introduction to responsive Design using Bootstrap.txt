@@ -1,0 +1,27 @@
+Bootstrap is a framework for developing responsive mobile first projects on the web. 
+
+The course Introduction to Responsive Design using Bootstrap describes how to use Bootstrap in a Visual Studio development environment, and how you can add Bootstrap components and themes to your website.
+
+
+
+The course begins by introducing you to Bootstrap, how Bootstrap can help with developing and maintaining a website, and how to use Bootstrap in Visual Studio. 
+
+The course teaches you about page design and positioning content in Bootstrap's grid system. You will learn what a responsive user interface (UI) is, and about themes which you can use to reskin your website with ease. 
+
+Next, you will be introduced to components in Bootstrap. 
+
+You will learn about the three main groups of components, about grouping components for organising webpage content and how to use Bootstrap objects.
+
+
+
+You will be introduced to glyphicons and buttons, and how to include them in a website. The course also covers navigation components which you can include in a website such as a Navbar and Pagination. 
+
+Finally, you will be introduced to page design and page layout. 
+
+There are four different grids depending on screen size and you will learn how these grids work and how to include them in a website. 
+
+The course teaches you about moving and controlling placement of content in a grid, and about creating a form for data entry.
+
+
+
+This course will be of great interest to website developers who would like to learn more about using Bootstrap for responsive design.
