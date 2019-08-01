@@ -1,0 +1,25 @@
+components
+
+Alerts are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the eight required contextual classes (e.g., .alert-success). For inline dismissal, use the alerts jQuery plugin.
+
+Visual Studio - Class IntelliSense
+
+<div class="row">
+<div class="col-md-">
+	    col-md-1
+	    col-md-10
+	    col-md-11
+	    col-md-12
+	    col-md-2
+	    col-md-4
+	    col-md-5
+	    col-md-6
+</div>
+</div>
+
+<div class="col-md-4">
+<div class="btn-primary"></div>
+When using "btn-primary", you must also specify the clas "btn".
+
+
+Demo

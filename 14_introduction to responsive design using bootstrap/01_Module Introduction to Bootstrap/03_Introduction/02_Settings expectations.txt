@@ -1,0 +1,30 @@
+.Target Audience
+	-HTML/CSS developer
+	-New to Bootstrap
+	-Looking to fill knowledge gaps
+
+. Suggested Prerequisites/Supporting Material
+ 	- Visual Studio 2013 Express for Web
+
+
+ Want the Source Code?
+. Download the source code from today's presentation
+- http://aka.ms/BootstrapMVAGIT
+
+
+why use it?
+. CSS is can be tricky
+. Cross browsre support can be a challenge.
+. Solves basic tasks(e.g. page layout without tables)
+. Bootstrap 3 makes it easier.
+
+Bootstrap Features
+.Theme Support
+.Responsive 
+.Grid
+.Components
+	- Pagination
+	- Buttons
+	- Modal
+
+. Great Visual Studio support

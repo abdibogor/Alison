@@ -1,0 +1,12 @@
+Responsive Layout
+
+One framework, every device.
+Bootstrap easily and efficiently scales your project with one code base, from phones to tablets to desktops.
+
+Grid System
+
+.col- = Extra small (576px)
+.col-sm- = Small(540px)
+.col-md- = Medium (720px)
+.col-lg- = (Large 960px)
+.col-xl- = (Extra large 1140px)
