@@ -1,0 +1,3 @@
+In this module you will be introduced to components in Bootstrap and the three main groups for components. 
+You will learn about grouping components for organising content in webpages. You will learn about using Bootstrap objects, such as glyphicons and buttons, and how to include them in a website. 
+You will learn about navigation components you can include in a website such as a Navbar and Pagination.

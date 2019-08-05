@@ -1,0 +1,28 @@
+Components
+
+Bootstrap Components
+
+Over a dozen reusable components built to provide iconography, dropdowns, input groups, navigation, alerts, and much more.
+
+Why?
+. They look good
+. Themeable
+. Replacement for Html server controls
+. Great for Ajax / SPA.
+
+
+getbootstrap.com/components
+
+Outline
+. Grouping
+. Objects
+. Navigation
+
+Grouping
+. Jumbotron
+. Labels
+. Panels
+
+Bootstrap snippet pack(Github)
+
+
