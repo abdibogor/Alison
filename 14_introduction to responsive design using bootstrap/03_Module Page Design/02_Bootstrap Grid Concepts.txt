@@ -1,0 +1,38 @@
+Outline 
+. Bootstrap Grid Concepts
+. Item Placement
+. Responsive Design
+. Collecting Data
+
+
+Bootstrap Grid
+. Bootstrap works on a grid
+. The grid has 12 Columns
+. There are four grids
+ 	- One grid for eah screen size
+	  . large (1200px and higher)
+	  . Medium(992px-1200px)
+	  . Small(768px-991px)
+	  . Extra small(less than 768px)
+
+Examples
+. col-lg-6
+	-Appliesto large(>1200px)
+	-Takes up 6 columns
+
+. col-md-4
+	-Applies to medium(992px-1200px)
+	-Takes up 4 columns
+
+. col-sm-12
+	- Applies to small (768px-991px)
+	- Takes up 12 columns(the entire row)
+
+
+Nesting Columns
+. Create rows in a column
+. Each row has 12 new columns
+
+
+
+

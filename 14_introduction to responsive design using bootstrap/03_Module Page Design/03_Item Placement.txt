@@ -1,0 +1,15 @@
+Controlling Placement
+
+. Offset
+	-Flows in order
+	-Leaves specified columns blank
+
+
+. Pull
+	-Move an item to the left
+	-Allows the item to be specified later thatn flow
+
+
+. Push 
+	-Move an item to the right
+	-Allows the item to be specified earlier than flow

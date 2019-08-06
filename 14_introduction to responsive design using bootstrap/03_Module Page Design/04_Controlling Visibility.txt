@@ -1,0 +1,30 @@
+Controlling Visibility
+
+. Options
+	-Hidden
+	. Visible by default
+	- Visible
+	. Hidden by default
+
+. Modes
+	- Screen size
+	- Print
+
+Bootstrap Forms
+. HTML5 provides rich functionality
+	- New types of inputs
+	- Placeholders
+
+. Bootstrap defaults
+	- Vertical display
+	- Focus highlitining
+
+Easy to Customining
+
+Form Classes
+. Need to add classes to introduce functionality
+. Main classes
+	- form-group
+	- form -control
+
+

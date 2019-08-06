@@ -1,0 +1,4 @@
+In this module you will learn about page design and layout. 
+You will learn how grids work and how to include them in a website. 
+You will learn about the four different grids depending on screen size, and how to move and control placement of content in a grid. 
+You will also learn about creating a form for data entry.
