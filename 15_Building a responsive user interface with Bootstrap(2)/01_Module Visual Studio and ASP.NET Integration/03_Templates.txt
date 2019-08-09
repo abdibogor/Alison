@@ -1,0 +1,6 @@
+Included files and references
+
+.css
+.Bootstrap fonts(Glyphicons)
+.Javascript
+.references in layout / Master

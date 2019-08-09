@@ -1,0 +1,14 @@
+How to change Scaffolding
+
+.Per-project: Scaffold Templates
+. shared
+	- Project Templates
+	- Custom Scaffolder
+
+What to change
+. Table classes
+. Tabs
+. Groupings
+. Navigation
+. Affix
+. Not design (that goes in theme / CSS)

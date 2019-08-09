@@ -1,0 +1,4 @@
+In this module you will be introduced to Visual studio and ASP.NET integration. 
+You will learn what a browser link is and how to use templates with generated code. 
+The course teaches you how to scaffold a project and how you can use scaffolding to determine what the content of templates will be. 
+You will also be introduced to useful support and extensions found in Visual Studio.

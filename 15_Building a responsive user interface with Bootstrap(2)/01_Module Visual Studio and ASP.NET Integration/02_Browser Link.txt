@@ -1,0 +1,14 @@
+Outline 
+. Browser Link 
+	- What's there by default?
+
+. Scaffolding otpimization
+	- changing MVC scaffolding to use Bootstrap classes
+	- Improving File = New Project
+
+. Tools
+	- Web Essentials
+	- Visual Studio Extensions
+	- Top NuGet Packages
+
+. Bundling  Minification
