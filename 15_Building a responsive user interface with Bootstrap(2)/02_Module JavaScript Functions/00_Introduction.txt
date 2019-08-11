@@ -1,0 +1,1 @@
+This module shows you how functionality from JavaScript can be enabled by adding attributes and classes. You will learn about creating modal dialog boxes and alerts for your website. You will also learn about providing inline help and how to create tabs and scroll spy.

@@ -1,0 +1,14 @@
+Javascript and Bootstrap
+. Configuring Bootstrap and Javascript
+. Enhancing Ui
+. Interacting with the User
+
+
+Configuring Bootstrap and Javascript
+. All javascript functions
+	-bootstrap.js
+	-bootstrap.min.js
+	. Individual files available
+
+. jQuery required
+. Most functionnality are enabled by adding attributes and classe.

@@ -1,0 +1,31 @@
+Modal Dialogs
+
+. Configure dialog using classes
+	- Container: modal
+	. Configure dialog: modal-dialog
+	- Content: modal-content
+	   .header: modal-header
+	   .Content: modal-content
+ 	   .Footer: modal-footer
+
+.Configure launcher using classes
+	-data-toggle="modal"
+	-data-target="<id>"
+
+. Configure closer
+	- data-dismiss="modal"
+
+Alerts
+. Subtle information
+ -Background task completed
+ -Operation on prior page completed
+
+. Added with classes
+ -alert
+ -alert-type
+   . Success
+   . Info
+   . warning
+   .Danger
+
+- Add alert-dismissible to make the alert dismissible.

@@ -1,0 +1,18 @@
+Providing Help
+. Whenever possible, provide inline help
+. Bootstrap offers two main options
+	- Tooltip for mouseover
+	- Popover for a click
+
+Adding Tabs
+. Create nav Tabs
+ <ul class="nav nav-tabs" role="tablist">
+   <li class="active"><a href="#reviews" role="tab" data-toggle="tab">Reviews</a></li>
+   <li><a href="#profile" role="tab" data-toggle="tab">Profile</a></li>
+   <li><a href="#account" role="tab" data-toggle="tab">Account</a></li>
+ </ul>
+
+. Create tab content
+ <div class="tab-pane" id="reviews">...</div> 
+ <div class="tab-pane" id="profile">...</div> 
+ <div class="tab-pane" id="account">...</div> 
