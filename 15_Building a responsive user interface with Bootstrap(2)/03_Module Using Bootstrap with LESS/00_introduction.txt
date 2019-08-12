@@ -1,0 +1,1 @@
+This module introduces you to LESS which is a CSS pre-processor, meaning that it extends the CSS language. You will learn what LESS is, how to install it, and how LESS can help you achieve semantic mark-up for you code.
