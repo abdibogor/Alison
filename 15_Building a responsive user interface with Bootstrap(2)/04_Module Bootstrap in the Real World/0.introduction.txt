@@ -1,0 +1,1 @@
+This module introduces you to real world considerations for your Bootstrap application. You will learn about what you should think of before you start editing your Bootstrap files. You will also learn about hosting your website, and about using a CDN (Content Delivery Network) and what it involves.
