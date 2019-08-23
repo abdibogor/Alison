@@ -1,0 +1,8 @@
+command interactive ruby and rails
+
+ rails new poker 
+ open poker
+ cd poker
+ rails generate scaffold pokemon name:string element:string
+ rake db:migrate
+ rails server
