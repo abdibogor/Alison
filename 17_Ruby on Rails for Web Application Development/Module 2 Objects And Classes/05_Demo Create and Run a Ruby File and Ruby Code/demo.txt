@@ -1,0 +1,8 @@
+execute interactive ruby and rails
+wirten with this text
+touch demo.rb
+subl demo.rb
+ruby demo.rb
+irb
+puts "Hello MVA!!"
+puts 1.class
