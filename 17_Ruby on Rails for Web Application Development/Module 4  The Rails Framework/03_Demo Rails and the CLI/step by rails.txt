@@ -1,0 +1,4 @@
+rails new league
+cd league 
+subl .
+rails server

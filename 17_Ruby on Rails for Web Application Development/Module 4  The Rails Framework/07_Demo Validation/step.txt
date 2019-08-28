@@ -1,0 +1,35 @@
+models = player.rb
+class Player ActiveRecord::Base
+    validates :first_name, last_name, presence: true
+end
+
+cmd ruby on rails
+rails console
+p = Player.new
+p.valid7
+reload
+p = Player.new
+p.errors.full.messages
+p = Player.new
+p.errors.full_messages
+Player.all
+Player.first
+e.update(first_name: "Martin")
+e.errors.full.messages
+reload
+e = Player.first
+e.update(first_name: "Martin")
+Player.first.update((last_name: "Burns")
+Player.all
+reload
+Player.new
+P.save
+P.errors.full.messages
+P = players.save
+p = Player.new
+p.first_name = "Lance"
+p.save
+p.errors.full.message
+reload
+p = Person.new(first_name: "Lance", Last_name: "Robertson", age: 77
+p = Player.new(first_name: "Aperson", last_name: "LastName", age:1)

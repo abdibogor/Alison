@@ -1,0 +1,53 @@
+rails generate model 
+clear
+rails generate g model player name:string age:integer
+subl -
+roke db:migrate
+rails c
+p - player.new
+ls
+p
+p.name = "Eduardo"
+p.age - 68
+p
+P.save
+Player.all
+player.create(name: "christopher", age: 80)
+Player.all
+exit
+Air league $ rails console
+Hirb.enable
+Player.all
+Player.first
+Player.second
+Player.last
+Player.find(1)
+Player.find(2)
+Player.find(2)
+chris.update(age: 27)
+Player.all
+Player.find.by(name: *Christopher*)
+exit
+clear
+
+rails g migration appColumnLastNameToPlayers
+rake db:migrate
+rails console
+Hirb.console
+Player.all
+Player.new
+rails g migration RenameNameColumnToFirstName
+rake db:migrate
+rails console
+Hirb.enable
+Player.all
+chris - Player.fnd(7)
+chris
+Player.first.update(last_name: "rail")
+Player.all
+all
+exit
+
+rake db:rollback
+rake db:roolback
+rake db:migrate:status

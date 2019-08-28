@@ -1,0 +1,20 @@
+you can create demo.rb
+rails generate model address street string player conferences
+rake db:migrate
+rails console
+Player.all
+Address.all
+Address.new
+Address.create(street: "120 example ")
+Address.first
+Hirb.disable
+Address.first
+Access.first.player
+Hirb.console
+first.player
+address.first
+player
+reload
+player.first
+p.address
+Address.second.player

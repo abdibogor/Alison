@@ -1,0 +1,14 @@
+you can create demo.rb
+
+rails g model item some:string
+rake d:migrate
+rails generate migration 
+rails d:migrate
+league | rails console
+Player.all
+Team.all
+create(name
+Team.crat(name) 'Boston'
+
+Player.all
+t.players
