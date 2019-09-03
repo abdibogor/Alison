@@ -1,0 +1,5 @@
+execute ruby on rails commands
+new du association 
+subl .
+rails server
+
