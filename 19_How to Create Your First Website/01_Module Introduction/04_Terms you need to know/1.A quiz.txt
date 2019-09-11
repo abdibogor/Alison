@@ -1,0 +1,7 @@
+Match theses to the examples(to check you've been listening..)
+
+Browser  =  Internet explorer
+URL 	 = www.chrisfarrell-online.com
+Host     = GoDaddy.com
+Registrar = GoDaddy.com
+Search Engine = Google

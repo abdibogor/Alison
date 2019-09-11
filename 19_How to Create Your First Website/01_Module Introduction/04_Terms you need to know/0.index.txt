@@ -1,0 +1,28 @@
+Terms You Need to Know
+
+Browser
+A program that allows you to view web pages. Internet explorer is a browsers. So is firefox.
+
+URL
+URL is the address of a webpage. Most of the time they start wit www. Every web page has a url. A url is basically a domain name.
+
+Server
+A powerful computer (not yours) that stores the files of many users. Your web hosting company will have many servers.
+
+HOST
+A Host is a company that connects your computer at home - to the World Wide Web
+You will upload files from your home to your Hosting company.
+
+Registrar
+An online company that you buy domain names throughout.
+
+Search Engine 
+When looking for information on the web - you type in your request into a Search Engine.
+
+Website
+A collection of information - a virtual store.
+
+Webpage
+A website may be made up of many individual webpages. Each webpaes has it's own url.
+e.g amazon.com
+

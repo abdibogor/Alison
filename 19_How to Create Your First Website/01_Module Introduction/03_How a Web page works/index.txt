@@ -1,0 +1,20 @@
+How A Webpage Works
+how works business online some explaining about
+
+You need TWO elements to create a webpage
+
+A Domain Name
+A Hosting Account
+
+
+what is a Domain Name
+This is the addrss of your website.
+.To get a domain name, you will to pay an annual fee(average cost $10). This does not get you a website, just the name.
+.The campanies that register domain names are called registrars.
+
+What is a Hosting Account
+. A Hosting company is a company that connects your website to the world wide web. Every website has a hosting company.
+. You create your webpage at home. You send it (upload) to your HOST. They have very powerful servers. and they put your webpage on the world Wide web.
+
+Your Home Computer == Hosting Company == world wide web
+

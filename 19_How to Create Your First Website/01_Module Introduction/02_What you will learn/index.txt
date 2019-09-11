@@ -1,0 +1,6 @@
+the website is composed many parts such as 
+header
+section 
+article
+aside 
+footer
