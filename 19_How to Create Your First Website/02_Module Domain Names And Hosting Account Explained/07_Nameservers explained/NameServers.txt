@@ -1,0 +1,12 @@
+Domain Name = GoDaddy.com
+Hosting Account = HostGator.com
+
+When Someone types in your domain name...
+computer == GoDaddy.com = ??
+
+C.NameServers
+. A Nameserver Links together your Host with your registrar
+. You only need to change your NameServers if your host is different to your Registrar  
+
+D. ToRecap
+You only need to be concerned about nameservers if your host and your registrar are different companies.

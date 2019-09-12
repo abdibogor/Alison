@@ -1,0 +1,11 @@
+you can connect GoDaddy.com
+Name and password
+a left you can click Domains then 
+Domain Manager
+click your domain 
+on top menu you see NameServers
+Set Nameservers
+Nameserver 1: 
+Nameserver 2: 
+
+Ok 

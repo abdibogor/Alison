@@ -1,0 +1,35 @@
+Your Fast Track Guide to...Hosting
+
+.Remember -to get online you need Two Things...
+.A Domain Name
+.A Hosting Account
+
+Your Hosting Account
+. Your Host connects your website to the web.
+. Your host will offer you two sets of information - you do Not need to worry about this!!
+
+Your Host will offer you.
+1. Bandwith
+2. Disk Space
+
+BANDWIDTH
+. This is the speed at which your data can travel at.
+
+DISK SPACE
+. You will have a certain amount of space at your host. You will Never use it all up - so there is no need to get hung up over this.
+
+DISK SPACE EXPLAINED...
+. GIGABYTES
+. MEGABYTES
+. KILOBYTES 1kb = 1000 megabytes
+1megabytes = 1000gigabytes
+
+But How Much Space Do I Need?
+
+Who Do I Recommend?
+HOSTGATOR.COM
+$4.95/month = $59.40/year
++$10 domain name 
+= 
+TOTAL of $69.40 to get your business started!!!
+
