@@ -1,0 +1,6 @@
+image = table
+Image Location
+choose file
+"don't use alternate text"
+
+ajouter deuxième image

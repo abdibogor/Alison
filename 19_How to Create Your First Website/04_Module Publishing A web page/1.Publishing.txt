@@ -1,0 +1,15 @@
+Publishing your first Webpage
+The Publish Process
+computer = Publish = Folder
+
+What Happens At Your Host???
+. This is the only Potentially confusing bit...so listen up
+. You need to know Exactly where at your host to upload your files to...
+. Your host will have many Directories. You need to know exactly which Directory to upload into
+. Most of the time - you will upload into a directory called: public_html
+
+Publishing Explained...
+. Ift it is not, you will need to email your host or call them and ask the following question...
+"...which directory of yours am i supposed to upload my web pages to?"
+. Normally, you will be told the following
+. "public_html"

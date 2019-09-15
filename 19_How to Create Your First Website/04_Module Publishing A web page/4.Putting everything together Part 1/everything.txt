@@ -1,0 +1,14 @@
+create new folder
+name it New WEBSITE
+plaçable vers My Documents
+
+open kompozer
+menu Insert
+table
+
+format
+Page Properties
+Title: Create your First Website
+
+format
+page Colors and Background

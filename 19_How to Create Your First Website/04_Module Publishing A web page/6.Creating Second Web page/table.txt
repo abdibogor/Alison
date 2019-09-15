@@ -1,0 +1,10 @@
+Insert = Table = Precisely
+Rows = 1
+Columns = 1
+Width = 200px
+ok
+
+Format Table cell Properties
+Background-color
+
+Format = Page Colors and Background

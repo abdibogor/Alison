@@ -1,0 +1,19 @@
+Write in phrase in 
+My Product
+
+format
+Page Properties
+Title: My Fantastic Product
+Author: Chris Farrell
+Ok
+
+save as
+myproduct.html
+save
+
+menu Publish
+Page title: My fantastic 
+
+Settings
+connect
+name and password

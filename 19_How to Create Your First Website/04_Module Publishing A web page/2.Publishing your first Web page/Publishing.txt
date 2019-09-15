@@ -1,0 +1,19 @@
+Open Software Kompozer
+Format
+Page Properties
+Title: Chris_Farrell Explains How to start Online
+save
+
+click Publish
+site name: www.createyourfirstwebsite.co
+
+web Site Information
+http://www.createyourfirstwebsite.com
+
+Publishing Server
+Publishing address
+ftp://ftp.createyourfirstwebsite.com/public_html
+
+User name: 
+password: 
+Save Password
