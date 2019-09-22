@@ -1,0 +1,6 @@
+open irfanview
+choose an image
+Resize/Resample image
+coche Set new size:
+width: 
+height: 
